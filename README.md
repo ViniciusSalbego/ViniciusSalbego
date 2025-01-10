@@ -1,6 +1,6 @@
 # Olá, eu sou Vinicius Salbego! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um analista e desenvolvedor sempre buscando se inovar e ter ideis que possam contribuir com o mercado. Aqui está um pouco sobre mim:
+Bem-vindo ao meu perfil no GitHub! Sou um analista e desenvolvedor sempre buscando se inovar e ter ideias que possam contribuir com o mercado. Aqui está um pouco sobre mim:
 
 ## 🛠️ Tecnologias e Ferramentas
 
