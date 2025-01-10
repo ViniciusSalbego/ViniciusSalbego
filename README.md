@@ -20,8 +20,8 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 ## 📫 Como me Encontrar
 
 - **GitHub:** [ViniciusSalbego](https://github.com/ViniciusSalbego)
-- **LinkedIn:** [Vinicius Salbego]()
-- **Email:** vinicius.salbego@example.com
+- **LinkedIn:** [Vinicius Salbego](https://www.linkedin.com/in/vinicius-salbego-ba%C3%BA/)
+- **Email:** viniciussalbego07@gmail.com
 
 ## ⚡ Curiosidades
 
